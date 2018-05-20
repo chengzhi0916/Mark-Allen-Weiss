@@ -17,7 +17,7 @@
 
 附：GitHub数据
 
-![](img\github1.png)
+![](https://github.com/chengzhi0916/Mark-Allen-Weiss/blob/master/weekly-summary/img/github1.png)
 
 下一周需做事情如下：
 
