@@ -17,7 +17,7 @@
 
 附：GitHub数据
 
-![](E:\cheng\lesson\Mark-Allen-Weiss\weekly-summary\img\github1.png)
+![](img\github1.png)
 
 下一周需做事情如下：
 
