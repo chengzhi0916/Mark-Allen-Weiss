@@ -6,6 +6,7 @@
 
 以下是本周完成的事情：
 
+- 正常上课
 - 本周犀牛书共抄了17个小节。
 - 《黑客与画家》看了一章
 - 百词斩打卡7天。
@@ -27,4 +28,12 @@
 - 用Express框架开发基础bolg ()
 - 主要的还是要准备周二的科目三 (拜托 拜托）
 - 收拾驾照的摊子
+
+
+
+本周重大新闻
+
+- [失去联想又能怎样](https://mp.weixin.qq.com/s/maQpu0iN-_fFQlx8rNLA0Q)
+- [罗永浩重新定义个人电脑锤子TNT](https://juejin.im/post/5afe206b5188251cee0c8293)
+- [雷军我这十年来的思考](https://mp.weixin.qq.com/s/S5SMQUyYT3Ln45sXb6MQqQ)
 
